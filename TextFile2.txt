@@ -1,3 +1,0 @@
-another text file
-
-branch 1 2
